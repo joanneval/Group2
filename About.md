@@ -1,3 +1,5 @@
 # ABOUT
 ## Full name
-- bullet Jo-ann Eval
+-  Jo-ann Eval
+- blackpink
+- blink
