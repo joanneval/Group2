@@ -1,7 +1,7 @@
 # ABOUT
 ## Full name
 -  Jo-ann Eval
-- blackpink
-- blink
+- Tacloban
+- Leyte
 # Email
 - evaljoann663@gmail.com
