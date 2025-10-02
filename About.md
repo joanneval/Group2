@@ -1,3 +1,3 @@
 # ABOUT
 ## Full name
--bullet Jo-ann Eval
+- bullet Jo-ann Eval
